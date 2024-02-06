@@ -1,2 +1,2 @@
 # e-commerce--frontend
-e-commerce--frontend
+e-commerce-frontend
